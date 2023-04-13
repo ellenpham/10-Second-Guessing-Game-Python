@@ -9,6 +9,7 @@ while True: #infinite loop
     print("Hello " + name + "! Welcome to the 10 second guessing game!")
     print("\n")
     print("Instruction\n")
+    print ("------------\n")
     print("Please hit Enter key when you are ready.")
     print("When you think 10 seconds have passed, hit the Enter key again.")
     print("Are you ready? Press Enter to start...")
